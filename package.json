@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Writing unit tests for javascript web application; Using AAA pattern for unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Botlhale-Setou/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Botlhale-Setou/testing-practice/issues"
+  },
+  "homepage": "https://github.com/Botlhale-Setou/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
